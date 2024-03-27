@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['Control Panel', 'Cylinder', 'Docking Station', 'Pipe', 'Shell', 'Whale']
+
+roboflow:
+  workspace: olamide-innocent-vfde4
+  project: underwater-objects-mtgd5
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/olamide-innocent-vfde4/underwater-objects-mtgd5/dataset/2
