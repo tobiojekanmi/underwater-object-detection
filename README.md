@@ -50,11 +50,8 @@ The trained model's performance was evaluated using mainly the mAP (mean Average
 ## Results
 
 Below are some of the predictions from the pretrained model.
-<img src="predictions/valid/12.jpg" alt="Image 1" width="19%" height="auto">
-<img src="predictions/valid/31.jpg" alt="Image 1" width="19%" height="auto">
-<img src="predictions/valid/41.jpg" alt="Image 1" width="19%" height="auto">
-<img src="predictions/valid/52.jpg" alt="Image 1" width="19%" height="auto">
-<img src="predictions/valid/89.jpg" alt="Image 1" width="19%" height="auto">
+
+<img src="predictions/valid/12.jpg" alt="Image 1" width="19%" height="auto"> <img src="predictions/valid/31.jpg" alt="Image 1" width="19%" height="auto"> <img src="predictions/valid/41.jpg" alt="Image 1" width="19%" height="auto"> <img src="predictions/valid/52.jpg" alt="Image 1" width="19%" height="auto"> <img src="predictions/valid/89.jpg" alt="Image 1" width="19%" height="auto">
 
 ## Usage
 
